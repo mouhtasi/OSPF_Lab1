@@ -125,7 +125,6 @@ version = 0.8.3.1
         slot0 = NM-1FE-TX
         f0/0 = R1 f1/0
         slot1 = NM-1FE-TX
-        f1/0 = R11 f0/0
         x = -504.0
         y = -165.0
         z = 1.0
@@ -170,7 +169,6 @@ version = 0.8.3.1
         aux = 2506
         cnfg = configs\R11.cfg
         slot0 = NM-1FE-TX
-        f0/0 = R3 f1/0
         slot1 = NM-1FE-TX
         f1/0 = SW1 1
         x = -708.0
@@ -465,81 +463,71 @@ version = 0.8.3.1
         y = 49.5444938734
         interface = R11 f1/0
     [[NOTE 61]]
-        text = "f0/0"
-        x = 61.8989248515
-        y = -5.65596034178
-        interface = R11 f0/0
-    [[NOTE 62]]
         text = "f2/0"
         x = 31.2040601276
         y = 61.9596621604
         interface = R5 f2/0
-    [[NOTE 63]]
+    [[NOTE 62]]
         text = "f1/0"
         x = 6.94119067009
         y = -8.34696782724
         interface = R5 f1/0
-    [[NOTE 64]]
+    [[NOTE 63]]
         text = "s0/0"
         x = -6.92445003997
         y = 24.457293024
         interface = R5 s0/0
-    [[NOTE 65]]
+    [[NOTE 64]]
         text = "f3/0"
         x = 22.8415473332
         y = 60.6885750502
         interface = R4 f3/0
-    [[NOTE 66]]
+    [[NOTE 65]]
         text = "f2/0"
         x = 58.1532590438
         y = -9.10166489876
         interface = R4 f2/0
-    [[NOTE 67]]
+    [[NOTE 66]]
         text = "f1/0"
         x = 5.43753485577
         y = -6.98810989307
         interface = R4 f1/0
-    [[NOTE 68]]
+    [[NOTE 67]]
         text = "s0/0"
         x = 72.92445004
         y = 19.542706976
         interface = R4 s0/0
-    [[NOTE 69]]
-        text = "f1/0"
-        x = 4.10107514848
-        y = 49.6559603418
-        interface = R3 f1/0
-    [[NOTE 70]]
+    [[NOTE 68]]
         text = "f0/0"
         x = 57.9670837121
         y = -9.25131566689
         interface = R3 f0/0
-    [[NOTE 71]]
+    [[NOTE 69]]
         text = "f2/0"
         x = 7.84674095619
         y = 53.1016648988
         interface = R2 f2/0
-    [[NOTE 72]]
+    [[NOTE 70]]
         text = "f1/0"
         x = 59.0588093299
         y = 52.3469678272
         interface = R2 f1/0
-    [[NOTE 73]]
+    [[NOTE 71]]
         text = "s0/0"
         x = -6.92381448725
         y = 24.4675973714
         interface = R2 s0/0
-    [[NOTE 74]]
+    [[NOTE 72]]
         text = "f2/0"
         x = 60.5624651442
         y = 50.9881098931
         interface = R1 f2/0
-    [[NOTE 75]]
+    [[NOTE 73]]
         text = "f1/0"
         x = 8.03291628787
         y = 53.2513156669
         interface = R1 f1/0
-    [[NOTE 76]]
+    [[NOTE 74]]
         text = "s0/0"
         x = 72.9238144873
         y = 19.5324026286
