@@ -1,10 +1,10 @@
 autostart = False
 version = 0.8.3.1
 [127.0.0.1:7202]
-    workingdir = C:\Users\nano\AppData\Local\Temp
+    workingdir = C:\Users\Imad\AppData\Local\Temp
     udp = 10200
     [[3640]]
-        image = C:\Users\nano\Dropbox\GNS3\Images\c3640-is-mz.124-17.image
+        image = C:\Users\Imad\Dropbox\GNS3\Images\c3640-is-mz.124-17.image
         idlepc = 0x60668230
         sparsemem = True
         ghostios = True
@@ -65,10 +65,10 @@ version = 0.8.3.1
         y = 15.0
         z = 1.0
 [127.0.0.1:7200]
-    workingdir = C:\Users\nano\AppData\Local\Temp
+    workingdir = C:\Users\Imad\AppData\Local\Temp
     udp = 10000
     [[3640]]
-        image = C:\Users\nano\Dropbox\GNS3\Images\c3640-is-mz.124-17.image
+        image = C:\Users\Imad\Dropbox\GNS3\Images\c3640-is-mz.124-17.image
         idlepc = 0x60668230
         sparsemem = True
         ghostios = True
@@ -130,10 +130,10 @@ version = 0.8.3.1
         y = -165.0
         z = 1.0
 [127.0.0.1:7201]
-    workingdir = C:\Users\nano\AppData\Local\Temp
+    workingdir = C:\Users\Imad\AppData\Local\Temp
     udp = 10100
     [[3640]]
-        image = C:\Users\nano\Dropbox\GNS3\Images\c3640-is-mz.124-17.image
+        image = C:\Users\Imad\Dropbox\GNS3\Images\c3640-is-mz.124-17.image
         idlepc = 0x60668230
         sparsemem = True
         ghostios = True
